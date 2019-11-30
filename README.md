@@ -15,6 +15,7 @@
 `valac --pkg gtk+-3.0 nmn.valac`
 
 > 以前的源码，有一些内部`deprecated`，导致有几个警告。
+> 字体不对的，可以alias字体名，或者改源码里面的`string fontname="WenQuanYi Zen Hei Mono";`。
 
 ![](nmn1.png)
 ![](nmn2.png)
